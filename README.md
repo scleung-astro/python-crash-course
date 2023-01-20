@@ -12,3 +12,6 @@ The course contains 4 parts:
 2. List, Numpy array, functions
 3. Scipy, Numpy and MatPlotLib
 4. TBD
+
+The pdf version is also available on my homepage
+https://sites.google.com/view/scleung/home/python-courses/python-crash-course 
