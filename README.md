@@ -15,3 +15,13 @@ The course contains 4 parts:
 
 The pdf version is also available on my homepage
 https://sites.google.com/view/scleung/home/python-courses/python-crash-course 
+
+**How to start?**
+The exercise note is built on Jupyter notebook. To open and run these notebooks, you will need to do the following step.
+1. Visit https://www.anaconda.com/download and download the anaconda (not a snake)
+2. Install the Anaconda in your computer. It is large and it takes time so you can do something else when the computer is busy installing. 
+3. Visit this Github page to download the material. Go to **2024Spring**, and choose the green button code >> download zip, and then extract the zip file into your Documents or OneDrive/Documents (we found different windows have different setup). Our programming material is stored in the folder Spring2024.
+4. Go to Start >> Anaconda Navigator, once you open the app, choose Jupyter-notebook (click the button Launch), then a web interface will be opened in your browser. Use that browser to go to the directory which you extracted in Step 3. 
+5. If you cannot find the file, you may use the upload button on the same page and choose the Jupyter-notebook file you extracted in Step 3. Alternatively move the python-crash-course-main folder out of the python-crash-course course folder (which is still the ZIP, so Jupyter does not recognize it). 
+6. Enjoy the material and programming!
+
